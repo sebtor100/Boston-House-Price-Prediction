@@ -31,6 +31,12 @@ Attribute Information:
 - **LSTAT:** % lower status of the population
 - **MEDV:** Median value of owner-occupied homes in 1000 dollars.
 
+  ### Conclusions and Business Recommendations
+
+**Conclusions:**
+
+ The regression analysis on the Boston housing dataset has provided valuable insights into the factors influencing housing prices. The linear regression model, after careful evaluation and refinement, demonstrates robust performance in predicting housing prices based on selected features. Key features such as crime rate (CRIM), proximity to the Charles River (CHAS), nitric oxide concentration (NOX), average number of rooms (RM), and socioeconomic status (% lower status of the population - LSTAT) have significant impacts on housing prices. The model's good performance on both training and testing sets suggests its generalizability and reliability in making accurate predictions.
+ 
   **Business Recommendations:**
 
 **1. Crime Mitigation Strategies:** Given the negative impact of crime rate on housing prices, local authorities and communities should focus on implementing effective crime mitigation strategies to enhance neighborhood safety, potentially leading to an increase in property values.
